@@ -19,7 +19,8 @@ A REST API is provided to allow 2 functions; add a new account to the watch list
 
 1. Clone this repo
 2. Use `npm install` to install required dependencies.
-3. Then use `npm run dev` to run a development version of the server.
+3. `cp .env.example .env` and then set the environment variables (used locally for dev).
+4. Then use `npm run dev` to run a development version of the server.
 
 ### Deployment
 
