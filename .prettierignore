@@ -1,0 +1,5 @@
+# don't ever format node_modules
+node_modules
+# don't lint format output (make sure it's set to your correct build folder name)
+dist
+build
