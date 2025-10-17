@@ -30,7 +30,7 @@ The build command: `npm run build`
 
 Start command: `npm run start`
 
-Docker/containerization could also be used easily to deploy, this project is standalone.
+Docker/containerization could also be used easily to deploy, this project is standalone. A simple `Dockerfile` is provided, it will listen on port 3000 by default.
 
 ## Routes
 
